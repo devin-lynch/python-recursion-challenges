@@ -18,3 +18,13 @@ output: 2
 input: 30
 output: 832040
 '''
+
+# def sum_to(n):
+#     # base case
+#     if n <= 0:
+#         return 0
+#     # recursive case
+#     print(f'n is currently: {n}')
+#     return n * sum_to(n - 1)
+
+# print(sum_to(30))
